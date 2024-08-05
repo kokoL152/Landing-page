@@ -1,6 +1,7 @@
-# Personal Landing Page
+<h1 align="center">Personal Landing Page</h1>
+<p align="center"><i>Landing page HTML, CSS, Bootstrap code</i></p>
 Headstarter week1 
-Landing page HTML, CSS, Bootstrap code
+
 
 
 
